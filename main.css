@@ -56,6 +56,11 @@
   
   .location .date {
     color: rgb(199, 133, 47);
+    font-size: 40px;
+  }
+
+  .location .time {
+    color: rgb(199, 133, 47);
     font-size: 30px;
   }
   
